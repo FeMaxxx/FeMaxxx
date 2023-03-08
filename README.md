@@ -2,13 +2,13 @@
 
 ## Hi my name Max, welcom to my GitHub 😁
 
----
+#
 
 - 👨‍🎓 I graduated from the GoIT academy
 - ⚡ Fun fact: Putin is a dick
 - 📫 How to reach me: fedechkomaxim@gmail.com
 
----
+#
 
 ### Knows about:
 
@@ -19,7 +19,7 @@
 ![REACT](https://img.shields.io/badge/-React-141321?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-141321?style=for-the-badge&logo=Node.js&logoColor=339933)
 
----
+#
 
 ### Mostly uses:
 
@@ -29,7 +29,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-141321?style=for-the-badge&logo=Figma&logoColor=F24E1E)
 ![Postman](https://img.shields.io/badge/-Postman-141321?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 
----
+#
 
 ### Stars:
 
