@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![gomer.gif](https://github.com/FeMaxxx/FeMaxxx/blob/main/assets/gomer.gif)
+
 <!--
 **FeMaxxx/FeMaxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
