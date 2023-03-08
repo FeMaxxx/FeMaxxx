@@ -2,8 +2,6 @@
 
 ## Hi my name Max, welcom to my GitHub 😁
 
-#
-
 - 👨‍🎓 I graduated from the GoIT academy
 - ⚡ Fun fact: Putin is a dick
 - 📫 How to reach me: fedechkomaxim@gmail.com
