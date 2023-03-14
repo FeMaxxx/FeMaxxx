@@ -31,5 +31,5 @@
 
 ### Stars:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeMaxxx&layout=compact&theme=radical&title_color=D20000)
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=FeMaxxx&show_icons=true&theme=radical&title_color=D20000&layout=compact" />
+![Top Langs](https://fe-maxxx-jp3n.vercel.app/api/top-langs/?username=FeMaxxx&layout=compact&theme=radical&title_color=D20000)
+<img height="165em" src="https://fe-maxxx-jp3n.vercel.app/api?username=FeMaxxx&show_icons=true&theme=radical&title_color=D20000&layout=compact" />
