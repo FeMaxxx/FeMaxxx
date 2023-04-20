@@ -1,6 +1,6 @@
 ![gomer.gif](https://github.com/FeMaxxx/FeMaxxx/blob/main/assets/gomer.gif)
 
-## Hi my name Max, welcom to my GitHub 😁
+## Hi i'm Max, welcome to my GitHub 😁
 
 - 👨‍🎓 I graduated from the GoIT academy
 - 📫 How to reach me: fedechkomaxim@gmail.com
