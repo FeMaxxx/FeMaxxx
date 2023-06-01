@@ -1,6 +1,8 @@
 <!-- ![gomer.gif](https://github.com/FeMaxxx/FeMaxxx/blob/main/assets/gomer.gif) -->
 
-![picture1](https://github.com/FeMaxxx/FeMaxxx/blob/main/assets/picture1.png)
+<!-- ![picture1](https://github.com/FeMaxxx/FeMaxxx/blob/main/assets/picture1.png) -->
+
+![cosmos](https://github.com/FeMaxxx/FeMaxxx/blob/main/assets/cosmos.png)
 
 ## Hi i'm Max, welcome to my GitHub 😁
 
