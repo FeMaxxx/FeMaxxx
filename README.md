@@ -6,8 +6,12 @@
 
 ## Hi i'm Max, welcome to my GitHub 😁
 
-- 👨‍🎓 I graduated from the GoIT academy
-- 📫 How to reach me: fedechkomaxim@gmail.com
+- 💻 Currently looking for a job (Front-end developer)
+- 👨‍🎓 Graduated from GoIT academy
+- 🔭 In my free time I work on my project and improve my coding skills
+- 🚀 The next technology to learn will be Node.js
+- 📫 How to contact me: fedechkomaxim@gmail.com
+- 😄 Interesting fact: Homer Simpson is a genius)
 
 #
 
