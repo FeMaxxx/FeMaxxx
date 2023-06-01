@@ -9,6 +9,8 @@
 
 ### Knows about:
 
+![React](https://img.shields.io/badge/-React-141321?style=for-the-badge&logo=React&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-141321?style=for-the-badge&logo=Redux&logoColor=F7DF1E)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141321?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/-HTML-141321?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-141321?style=for-the-badge&logo=CSS3&logoColor=1572B6)
