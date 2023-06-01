@@ -1,4 +1,6 @@
-![gomer.gif](https://github.com/FeMaxxx/FeMaxxx/blob/main/assets/gomer.gif)
+<!-- ![gomer.gif](https://github.com/FeMaxxx/FeMaxxx/blob/main/assets/gomer.gif) -->
+
+![picture1](https://github.com/FeMaxxx/FeMaxxx/blob/main/assets/picture1.png)
 
 ## Hi i'm Max, welcome to my GitHub 😁
 
@@ -16,6 +18,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-141321?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-141321?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/-Sass-141321?style=for-the-badge&logo=Sass&logoColor=CC66997)
+
 <!-- ![REACT](https://img.shields.io/badge/-React-141321?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-141321?style=for-the-badge&logo=Node.js&logoColor=339933) -->
 
