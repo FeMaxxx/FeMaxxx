@@ -25,6 +25,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-141321?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-141321?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/-Sass-141321?style=for-the-badge&logo=Sass&logoColor=CC66997)
+![express](https://img.shields.io/badge/-express-141321?style=for-the-badge&logo=express&logoColor=black)
+![mongodb](https://img.shields.io/badge/-mongodb-141321?style=for-the-badge&logo=mongodb)
 
 #
 
