@@ -2,31 +2,29 @@
 
 <!-- ![picture1](https://github.com/FeMaxxx/FeMaxxx/blob/main/assets/picture1.png) -->
 
-![cosmos](https://github.com/FeMaxxx/FeMaxxx/blob/main/assets/cosmos.png)
+![cosmos](https://github.com/FeMaxxx/FeMaxxx/blob/main/assets/Header.png)
 
 ## Hi i'm Max, welcome to my GitHub 😁
 
-- 💻 Currently looking for a job (Front-end developer)
+- 💻 Currently looking for a job (Full stack developer)
 - 👨‍🎓 Graduated from GoIT academy
-- 🔭 In my free time I work on my project and improve my coding skills
-- 🚀 The next technology to learn will be Next.js
+- 🔭 In my free time, I ride a bike, go for walks, and like to watch movies, serials and anime.
 - 📫 How to contact me: fedechkomaxim@gmail.com
 
 #
 
 ### Knows about:
 
-![React](https://img.shields.io/badge/-React-141321?style=for-the-badge&logo=React&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/-Redux-141321?style=for-the-badge&logo=Redux&logoColor=ba8fff)
-![Node](https://img.shields.io/badge/-Node.js-141321?style=for-the-badge&logo=Node.js&logoColor=43853d)
+![Next](https://img.shields.io/badge/-Next.js-141321?style=for-the-badge&logo=Next&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141321?style=for-the-badge&logo=TypeScript&logoColor=3178c6)
+![React](https://img.shields.io/badge/-React-141321?style=for-the-badge&logo=React&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/-Node.js-141321?style=for-the-badge&logo=Node.js&logoColor=43853d)
+![Redux](https://img.shields.io/badge/-Redux-141321?style=for-the-badge&logo=Redux&logoColor=ba8fff)
+![Zustand](https://img.shields.io/badge/-Zustand-141321?style=for-the-badge&logo=Zustand&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141321?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/-HTML-141321?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-141321?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/-Sass-141321?style=for-the-badge&logo=Sass&logoColor=CC66997)
-
-<!-- ![REACT](https://img.shields.io/badge/-React-141321?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-141321?style=for-the-badge&logo=Node.js&logoColor=339933) -->
 
 #
 
