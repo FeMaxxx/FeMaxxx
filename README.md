@@ -8,6 +8,7 @@
 
 - 💻 Currently looking for a job (Full stack developer)
 - 👨‍🎓 Graduated from GoIT academy
+- 🤔 I'm motivated to become a better programmer
 - 🔭 In my free time, I ride a bike, go for walks, and like to watch movies, serials and anime.
 - 📫 How to contact me: fedechkomaxim@gmail.com
 
