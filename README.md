@@ -30,7 +30,7 @@
 ![express](https://img.shields.io/badge/-express-141321?style=for-the-badge&logo=express&logoColor=black)
 ![mongodb](https://img.shields.io/badge/-mongodb-141321?style=for-the-badge&logo=mongodb)
 ![postman](https://img.shields.io/badge/-postman-141321?style=for-the-badge&logo=postman&logoColor=ef5b25)
-![figma](https://img.shields.io/badge/-figma-141321?style=for-the-badge&logo=figma)
+![figma](https://img.shields.io/badge/-figma-141321?style=for-the-badge&logo=figma&logoColor=ffffff)
 
 #
 
