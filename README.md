@@ -20,14 +20,17 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141321?style=for-the-badge&logo=TypeScript&logoColor=3178c6)
 ![React](https://img.shields.io/badge/-React-141321?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![Node](https://img.shields.io/badge/-Node.js-141321?style=for-the-badge&logo=Node.js&logoColor=43853d)
+![JavaScript](https://img.shields.io/badge/-JavaScript-141321?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![Redux](https://img.shields.io/badge/-Redux-141321?style=for-the-badge&logo=Redux&logoColor=ba8fff)
 ![Zustand](https://img.shields.io/badge/-Zustand-141321?style=for-the-badge&logo=zustand&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-141321?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![GSAP](https://img.shields.io/badge/-GSAP-141321?style=for-the-badge&logo=gsap&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/-HTML-141321?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-141321?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/-Sass-141321?style=for-the-badge&logo=Sass&logoColor=CC66997)
 ![express](https://img.shields.io/badge/-express-141321?style=for-the-badge&logo=express&logoColor=black)
 ![mongodb](https://img.shields.io/badge/-mongodb-141321?style=for-the-badge&logo=mongodb)
+![postman](https://img.shields.io/badge/-postman-141321?style=for-the-badge&logo=postman&logoColor=ef5b25)
+![figma](https://img.shields.io/badge/-figma-141321?style=for-the-badge&logo=figma)
 
 #
 
