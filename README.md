@@ -2,23 +2,18 @@
 
 <!-- ![picture1](https://github.com/FeMaxxx/FeMaxxx/blob/main/assets/picture1.png) -->
 
-![cosmos](https://github.com/FeMaxxx/FeMaxxx/blob/main/assets/Header.png)
+![cosmos](https://github.com/FeMaxxx/FeMaxxx/blob/main/assets/picture1.png)
 
-## Hi i'm Max, welcome to my GitHub 😁
-
-- 💻 Currently looking for a job (Full stack developer)
-- 👨‍🎓 Graduated from GoIT academy
-- 🤔 I'm motivated to become a better programmer
-- 🔭 In my free time, I ride a bike, go for walks, and like to watch movies, serials and anime.
-- 📫 How to contact me: fedechkomaxim@gmail.com
+## Hi i'm Maksym, welcome to my GitHub 😁
 
 #
 
 ### Knows about:
 
 ![Next](https://img.shields.io/badge/-Next.js-141321?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-141321?style=for-the-badge&logo=TypeScript&logoColor=3178c6)
 ![React](https://img.shields.io/badge/-React-141321?style=for-the-badge&logo=React&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-141321?style=for-the-badge&logo=TypeScript&logoColor=3178c6)
+![PHP](https://img.shields.io/badge/-PHP-141321?style=for-the-badge&logo=php&logoColor=white)
 ![Node](https://img.shields.io/badge/-Node.js-141321?style=for-the-badge&logo=Node.js&logoColor=43853d)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141321?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![Redux](https://img.shields.io/badge/-Redux-141321?style=for-the-badge&logo=Redux&logoColor=ba8fff)
