@@ -6,8 +6,6 @@
 
 ## Hi i'm Maksym, welcome to my GitHub 😁
 
-#
-
 ### Knows about:
 
 ![Next](https://img.shields.io/badge/-Next.js-141321?style=for-the-badge&logo=next.js)
