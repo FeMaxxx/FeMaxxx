@@ -34,10 +34,3 @@
 ![Git](https://img.shields.io/badge/-Git-141321?style=for-the-badge&logo=Git&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/-Figma-141321?style=for-the-badge&logo=Figma&logoColor=F24E1E)
 ![Postman](https://img.shields.io/badge/-Postman-141321?style=for-the-badge&logo=Postman&logoColor=FF6C37)
-
-#
-
-### Stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeMaxxx&layout=compact&theme=radical&title_color=D20000)
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=FeMaxxx&show_icons=true&theme=radical&title_color=D20000&layout=compact"/>
